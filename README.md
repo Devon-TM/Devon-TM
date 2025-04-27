@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[لینک لوگوی شرکت Devon]" alt="لوگوی Devon" width="180"/>
+  <img src="[file:///C:/Users/Amin/Desktop/Devon%20logo.svg]" alt="لوگوی Devon" width="180"/>
 </p>
 
 <h1 align="center">به خانه دیجیتال Devon خوش آمدید!</h1>

@@ -5,67 +5,59 @@
 <h1 align="center">Welcome to Devon's digital home!</h1>
 
 <p align="center">
-  <strong>ما پلی هستیم بین خلاقیت بصری و قدرت کدنویسی.</strong>
+<strong>We are a bridge between visual creativity and the power of coding.</strong>
   <br/>
-  در Devon، هنر طراحی گرافیک را با مهندسی نرم‌افزار و توسعه وب ترکیب می‌کنیم تا راهکارهای دیجیتال منحصر به فرد و کارآمد خلق کنیم.
-</p>
+At Devon, we combine the art of graphic design with software engineering and web development to create unique and effective digital solutions.</p>
 
 ---
 
-## 🎨💻 خدمات اصلی ما
+## 🎨💻The main services of the Devon team
 
-ما طیف وسیعی از خدمات دیجیتال را برای جان بخشیدن به ایده‌های شما ارائه می‌دهیم:
+We offer a wide range of digital services to bring your ideas to life:
+    *  **🎨 Graphic and User Interface Design (UI/UX):**
+    *  Visual identity design and branding
+    *  User Interface (UI) and User Experience (UX) Design for Websites and Applications
+    *  Design of banners, posters, catalogs and other graphic items
+*  **🌐Website design and development:**
+    *  Responsive and modern website design
+    *   Developing various types of websites (corporate, store, personal, portal) using the latest technologies
+    *  Search Engine Optimization (SEO) and Performance Improvement
 
-*   **🎨 طراحی گرافیک و رابط کاربری (UI/UX):**
-    *   طراحی هویت بصری و برندینگ
-    *   طراحی رابط کاربری (UI) و تجربه کاربری (UX) برای وب‌سایت‌ها و اپلیکیشن‌ها
-    *   طراحی بنر، پوستر، کاتالوگ و سایر اقلام گرافیکی
+*   **💻 Programming and software development:**
+    *  Development of custom web applications (Web Applications)
+    * Back-end programming and API design
+    *  Providing software solutions tailored to your business needs
 
-*   **🌐 طراحی و توسعه وب‌سایت:**
-    *   طراحی وب‌سایت‌های ریسپانسیو (واکنش‌گرا) و مدرن
-    *   توسعه انواع وب‌سایت (شرکتی، فروشگاهی، شخصی، پورتال) با استفاده از به‌روزترین تکنولوژی‌ها
-    *   بهینه‌سازی برای موتورهای جستجو (SEO) و بهبود عملکرد
+## ✨Our expertise and tools
 
-*   **💻 برنامه‌نویسی و توسعه نرم‌افزار:**
-    *   توسعه اپلیکیشن‌های وب سفارشی (Web Applications)
-    *   برنامه‌نویسی بک‌اند (Back-end) و طراحی API
-    *   ارائه راهکارهای نرم‌افزاری متناسب با نیاز کسب‌وکار شما
+Our team is a mix of creative designers and skilled programmers who work with a variety of tools and technologies:
+*   **Design Tools:** Adobe Creative Suite (Photoshop, Illustrator, XD), Figma, Sketch, etc.
+*  **Web Technologies (Front-end):** HTML5, CSS3, JavaScript, TypeScript, React, Vue.js, Angular and ...
+*  **Web Technologies (Back-end):** Node.js, Python (Django/Flask), PHP (Laravel), Ruby on Rails, Java (Spring) and ...
+*  **Content Management Systems (CMS):** WordPress, Drupal, Joomla, etc.
+* **Database:** MySQL, PostgreSQL, MongoDB and ...
+*   **And other tools related to DevOps, version control (Git!) and project management.**
 
-## ✨ تخصص و ابزارهای ما
-
-تیم ما ترکیبی از طراحان خلاق و برنامه‌نویسان ماهر است که با ابزارها و تکنولوژی‌های متنوعی کار می‌کنند:
-
-*   **ابزارهای طراحی:** Adobe Creative Suite (Photoshop, Illustrator, XD), Figma, Sketch و ...
-*   **تکنولوژی‌های وب (Front-end):** HTML5, CSS3, JavaScript, TypeScript, React, Vue.js, Angular و ...
-*   **تکنولوژی‌های وب (Back-end):** Node.js, Python (Django/Flask), PHP (Laravel), Ruby on Rails, Java (Spring) و ...
-*   **سیستم‌های مدیریت محتوا (CMS):** WordPress, Drupal, Joomla و ...
-*   **پایگاه داده:** MySQL, PostgreSQL, MongoDB و ...
-*   **و سایر ابزارهای مرتبط با دواپس، کنترل ورژن (Git!) و مدیریت پروژه.**
-
-## 💡 نمونه کارها و پروژه‌ها
-
-بسیاری از پروژه‌های ما برای مشتریان عزیزمان انجام شده‌اند و ماهیت محرمانه دارند. با این حال، برای مشاهده نمونه‌کارهای عمومی و آشنایی بیشتر با کیفیت کار ما، می‌توانید به وب‌سایت رسمی شرکت مراجعه کنید:
-
+## 💡Portfolio and projects
+Many of our projects are done for our valued clients and are confidential in nature. However, to view public portfolios and learn more about the quality of our work, you can visit the company's official website:
 *   portfolio **نمایشگاه آثار:** [لینک به بخش نمونه‌کارها یا پورتفولیو در وب‌سایت Devon]
 
 <!-- اگر پروژه متن‌باز یا ابزار خاصی دارید که روی گیت‌هاب منتشر کرده‌اید، می‌توانید اینجا لیست کنید: -->
 <!-- *   **[نام ابزار/پروژه متن‌باز ۱]:** [توضیح کوتاه] - [لینک به مخزن] -->
 <!-- *   **[نام ابزار/پروژه متن‌باز ۲]:** [توضیح کوتاه] - [لینک به مخزن] -->
 
-## 🤝 همکاری با ما
+## 🤝 Cooperate with us
 
-آیا ایده‌ای دارید که می‌خواهید آن را به واقعیت تبدیل کنید؟ ما آماده‌ایم تا در این مسیر همراه شما باشیم. برای مشاوره و شروع همکاری، از طریق راه‌های زیر با ما در تماس باشید:
-
+Do you have an idea that you want to turn into reality? We are ready to accompany you on this path. For advice and to start working together, contact us through the following ways:
 *   **وب‌سایت:** [لینک به صفحه تماس با ما یا فرم درخواست پروژه در وب‌سایت Devon]
 *   **ایمیل:** [آدرس ایمیل رسمی شرکت Devon برای پروژه‌ها]
 
-## 🚀 به تیم ما بپیوندید!
+## 🚀Join our team!
 
-ما همیشه به دنبال استعدادهای جدید در زمینه‌های طراحی و برنامه‌نویسی هستیم. اگر علاقه‌مند به کار در یک محیط پویا و خلاق هستید، فرصت‌های شغلی ما را بررسی کنید:
-
+We are always looking for new talent in the fields of design and programming. If you are interested in working in a dynamic and creative environment, check out our career opportunities:
 *   **فرصت‌های شغلی:** [لینک به صفحه مشاغل Devon یا ایمیل منابع انسانی]
 
-## 🔗 ما را دنبال کنید
+## 🔗 follow us
 
 *   🌐 **وب‌سایت رسمی:** [لینک وب‌سایت Devon]
 *   🔗 **لینکدین:** [لینک صفحه لینکدین Devon]
@@ -74,4 +66,4 @@
 
 ---
 
-ما مشتاقانه منتظر شنیدن ایده‌های شما و همکاری در پروژه‌های آینده در Devon هستیم!
+We look forward to hearing your ideas and collaborating on future projects in Devon!

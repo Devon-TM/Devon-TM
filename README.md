@@ -2,7 +2,7 @@
   <img src="[file:///C:/Users/Amin/Desktop/Devon%20logo.svg]" alt="لوگوی Devon" width="180"/>
 </p>
 
-<h1 align="center">به خانه دیجیتال Devon خوش آمدید!</h1>
+<h1 align="center">Welcome to Devon's digital home!</h1>
 
 <p align="center">
   <strong>ما پلی هستیم بین خلاقیت بصری و قدرت کدنویسی.</strong>

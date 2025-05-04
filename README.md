@@ -11,9 +11,9 @@ At Devon, we combine the art of graphic design with software engineering and web
 
 ---
 
-## 🎨💻The main services of the Devon team
+## 🎨💻Main Services
 
-We offer a wide range of digital services to bring your ideas to life:
+We specialize in bringing your unique ideas to life through design and development
     *  **🎨 Graphic and User Interface Design (UI/UX):**
     *  Visual identity design and branding
     *  User Interface (UI) and User Experience (UX) Design for Websites and Applications
@@ -28,9 +28,9 @@ We offer a wide range of digital services to bring your ideas to life:
     * Back-end programming and API design
     *  Providing software solutions tailored to your business needs
 
-## ✨Our expertise and tools
+## ✨Expertise and Tools
 
-Our team is a mix of creative designers and skilled programmers who work with a variety of tools and technologies:
+Our team consists of passionate designers and expert developers
 *   **Design Tools:** Adobe Creative Suite (Photoshop, Illustrator, XD), Figma, Sketch, etc.
 *  **Web Technologies (Front-end):** HTML5, CSS3, JavaScript, TypeScript, React, Vue.js, Angular and ...
 *  **Web Technologies (Back-end):** Node.js, Python (Django/Flask), PHP (Laravel), Ruby on Rails, Java (Spring) and ...
